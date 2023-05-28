@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd61c99b-a6e9-47f5-bcf3-07a0f881074c" name="Changes" comment="Updated" />
+    <list default="true" id="fd61c99b-a6e9-47f5-bcf3-07a0f881074c" name="Changes" comment="Updated">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simple_Calculator.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QQg8ORYymUAdObEjvr2zf1znz5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685292547269</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated">
+      <created>1685292655435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685292655435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +100,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple_Calculator.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple_Calculator</url>
           <line>23</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
